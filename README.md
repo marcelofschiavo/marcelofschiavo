@@ -1,6 +1,6 @@
 <p align="right">
   <b>English</b> • 
-  <a href="https://github.com/marcelofschiavo/marcelofschiavo/blob/main/README-pt.md">Português</a>
+  <a href="https://github.com/marcelofschiavo/marcelofschiavo/blob/main/readme-pt.md">Português</a>
 </p>
 Hi, I'm Marcelo Schiavo 👋
 
