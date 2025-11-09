@@ -9,7 +9,7 @@ I'm a **Data & BI Analyst** with a unique background as an **HR Consultant** and
 I'm passionate about the intersection of data and human behavior, especially in **People Analytics**.
 
 - 🔭 I’m interested in finding data-driven solutions to complex human challenges.
-- 🌱 I’m currently deepening my skills in **SQL**, **Tableau**, Python** and **GenAI**.
+- 🌱 I’m currently deepening my skills in **SQL**, **Tableau**, **Python** and **GenAI**.
 - 🤝 I’m looking to collaborate on projects involving Data Analytics, BI, or People Analytics.
 - 📫 How to reach me: [marcelofschiavo@gmail.com](mailto:marcelofschiavo@gmail.com)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/marceloschiavo)
